@@ -1,4 +1,4 @@
-# Kamerka (Ultimate Internet of Things/Industrial Control Systems reconnaissance tool)
+# Kamerka Reconocimiento Automatizado para ICS 
 
 En entradas anteriores hablamos un poco sobre los Industrial Control System utilizando Shodan y explicamos las fases del [CyberKillChain](https://blog.toadsec.io/2022/12/08/attacking-ics.html), en esta ocasión vamos a continuar con el reconocimiento utilizando una herramienta poderosa llamada [Kamerka](https://kamerka.io/) y desarrollada [woj-ciech](https://github.com/woj-ciech) la importancia de esta herramienta en lugar de utilizar solamente shodan es la facilidad que tiene al contar con consultas prefabricadas y solo debemos seleccionar la categoría que deseamos probar. 
 
